@@ -1,0 +1,6 @@
+{
+  "name": "TelcoX Analytics Maturity & Real-Time Retention",
+  "description": "Part A (Question 12) TelcoX Customer Experience & Churn Analytics Maturity Assessment: classifying Descriptive, Diagnostic, Predictive, and Prescriptive analytics with a real-time telemetry and retention intervention simulator grounded in the TelcoX dataset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
